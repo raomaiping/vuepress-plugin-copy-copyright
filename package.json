@@ -1,0 +1,26 @@
+{
+  "name": "vuepress-plugin-copy-copyright",
+  "version": "1.0.1",
+  "description": "![background](./img/back.png)",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "clipboard": "^2.0.4"
+  },
+  "keywords": [
+    "vuepress",
+    "前端小菜鸟吖",
+    "plugin",
+    "copy",
+    "copyright"
+  ],
+  "author": "前端小菜鸟吖",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/raomaiping/vuepress-plugin-rmp-copy"
+  },
+  "devDependencies": {}
+}
