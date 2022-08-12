@@ -1,7 +1,7 @@
 {
   "name": "vuepress-plugin-copy-copyright",
-  "version": "1.0.1",
-  "description": "![background](./img/back.png)",
+  "version": "1.0.3",
+  "description": "![background](https://raw.githubusercontent.com/raomaiping/vuepress-plugin-copy-copyright/main/img/back.png)",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
@@ -20,7 +20,7 @@
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "https://github.com/raomaiping/vuepress-plugin-rmp-copy"
+    "url": "https://github.com/raomaiping/vuepress-plugin-copy-copyright"
   },
   "devDependencies": {}
 }

@@ -1,7 +1,6 @@
 /* eslint-disable no-underscore-dangle */
 // eslint-disable-next-line import/no-extraneous-dependencies
 import Vue from 'vue';
-import { title } from '../.vuepress/config';
 import CodeCopy from './copy.vue';
 
 export default {
@@ -32,7 +31,7 @@ export default {
 
 
 
-Copyright © ${authorName ? authorName : title}
+Copyright © ${authorName ? authorName : this.$siteTitle}
 Link: ${decodeURIComponent(window.location.href).replace(/#.+$/, '')}
           `
         }
